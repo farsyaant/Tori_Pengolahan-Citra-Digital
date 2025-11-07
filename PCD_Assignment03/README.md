@@ -1,1 +1,1 @@
-
+Terlampir notebook yang berisikan pengerjaan Assignment 03 beserta gambar-gambar yang dihasilkan sepanjang pengerjaan, yakni berupa original_image, histogram, segmentation_global_threshold, segmentation_otsu_method, erotion, dilation, opening, dan closing.
